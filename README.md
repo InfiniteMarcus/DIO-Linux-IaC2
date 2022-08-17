@@ -4,7 +4,7 @@
 
 Projeto desenvolvido durante Bootcamp da [DIO](https://www.dio.me/sign-in) (Digital Innovation One).
 
-Este script é uma forma de automatizar a implementação de uma estrutura em Linux (principalmente na distro Ubuntu).
+Este script é uma forma de automatizar a implementação de um servidor Web Apache em Linux (principalmente na distro Ubuntu).
 
 ## Execução
 
